@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./App.scss";
-import { shuffle } from "./utils.js";
+import { shuffle } from "./utils";
 
 const commonPlayers = [
   "키위련",
