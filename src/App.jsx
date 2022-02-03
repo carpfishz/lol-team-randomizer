@@ -3,22 +3,17 @@ import "./App.scss";
 import { shuffle } from "./utils";
 
 const commonPlayers = [
-  "LATA",
-  "RIJA",
-  "SALSA",
-  "BOYTA",
-  "PANCHO",
-  "FRANCA",
-  "FACHIMONGO",
-  "FEDELWAY",
-  "LOWI",
-  "NAWE",
-  "FACUPEH",
-  "SALAH",
-  "TOMO",
-  "SOMBRA",
-  "FEDO",
-  "🐀 FRANQUITO",
+  "키위련",
+  "붕어고기",
+  "돈자",
+  "박졸예",
+  "카오스",
+  "네이네이",
+  "진돌",
+  "붕붕코",
+  "붕코",
+  "갱킹주도성장",
+  "도갓",
 ];
 
 function App() {
